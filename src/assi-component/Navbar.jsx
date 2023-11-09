@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <><div className="navcontainer py-4">
       <div className="container-fluid display-inline navitem">
-        <NavLink className="nav-link text-white text-white text-uppercase fw-bolder fs-2" to="start">Start Framwork</NavLink>
+        <NavLink className="nav-link text-white text-white text-uppercase fw-bolder fs-2" to="/">Start Framwork</NavLink>
         <div className="gap-50">
           <ul className="ullist">
             <li className="nav-item">

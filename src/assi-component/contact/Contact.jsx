@@ -55,7 +55,7 @@ export default function Contact() {
               <label className={c.label + ' label4'} htmlFor="">userPassword</label>
               <input type="text" placeholder="userPassword" className="passel shadow-none form-control border-0 border-bottom py-3 position-relative ng-valid ng-touched ng-dirty"></input>
             </div>
-            <Link to={"/start"} className="btn btn-primary mt-4 " > send Message </Link>
+            <Link to={"/"} className="btn btn-primary mt-4 " > send Message </Link>
           </form>
         </div>
 
